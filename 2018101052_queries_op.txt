@@ -1,0 +1,120 @@
+1150109, Lionel Messi
+377310, Cristiano Ronaldo
+113860, Pau Gasol
+1719115, Dani Alves
+2065670, Giorgio Chiellini
+1708339, Marta (footballer)
+13148827, Andressa Alves da Silva
+1831973, Jonas Mačiulis
+5233, Diego Maradona
+1681863, Sergio Agüero
+6.899338722229004
+
+15316052, Arthur Cook (Australian politician)
+7107414, Wikipedia:WikiProject United States courts and judges/judgestats
+592376, Internment of Japanese Canadians
+3647976, Advanced Landing Ground
+1070901, List of Victory ships
+11523489, List of requisitioned trawlers of the Royal Navy (WWII)
+4036819, Alexandros Othonaios
+6071032, 21st Army (Soviet Union)
+7192382, Oil campaign chronology of World War II
+9109028, List of accidents and incidents involving military aircraft (1945–1949)
+11.579882730999998
+
+18066464, Joker (2019 film)
+19454812, List of accolades received by Joker (2019 film)
+127891, Joaquin Phoenix
+19559826, 73rd British Academy Film Awards
+1767660, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role
+6044550, Joker in other media
+14741161, List of awards and nominations received by Joaquin Phoenix
+17443207, The Addams Family (2019 film)
+19621880, San Diego Film Critics Society Awards 2019
+17761901, Parasite (2019 film)
+1.8315823078155518
+
+10092080, How I Met Your Mother (season 7)
+10643944, Field Trip (How I Met Your Mother)
+11014657, No Pressure (How I Met Your Mother)
+10596615, The Naked Truth (How I Met Your Mother)
+10745345, Tick Tick Tick (How I Met Your Mother)
+11119138, Karma (How I Met Your Mother)
+10872881, Tailgate (How I Met Your Mother)
+10595869, The Best Man (How I Met Your Mother)
+12078073, How I Met Your Mother (season 9)
+8583436, How I Met Your Mother (season 5)
+9.348955631256104
+
+17910661, Tony Appleton
+18255877, Mount Appleton
+14000206, John Howard Appleton
+1291418, Tony Kubek
+3855571, 50th Tony Awards
+3828477, Special Tony Award
+169485, Tony Award for Best Play
+170700, Tony Award for Best Revival of a Play
+2464615, Tony Award for Best Choreography
+110811, Appleton, Wisconsin
+1.105945110321045
+
+501831, Smelly Cat
+2554778, List of Friends and Joey characters
+8898845, Friends (season 2)
+11146484, Wikipedia:Good articles/Music
+14952512, Wikipedia:WikiProject Women in Green
+11805599, Wikipedia:WikiProject Television/Recognized content
+2134969, Wikipedia:Reference desk/Archives/Science/April 2006
+189926, List of recurring The Simpsons characters
+20924083, Wikipedia:Database reports/File description pages shadowing a Commons file or redirect
+9777250, List of Mad episodes
+2.7154557704925537
+
+7617653, Nineteen Eighty-Four
+110, Animal Farm
+24154, Brave New World
+7485, George Orwell
+12715, Mein Kampf
+374877, Darkness at Noon
+8539, H. G. Wells
+1026511, V for Vendetta (film)
+469, Alternate history
+1031366, Lord of the World
+3.558474063873291
+
+159852, Unsupervised learning
+1842598, Weka (machine learning)
+5186655, One-shot learning
+2821170, Autoencoder
+159845, Machine learning
+1012492, K-means clustering
+14023278, Quantum machine learning
+9896188, Multilinear principal component analysis
+20642988, GPT-2
+12572732, Tanagra (machine learning)
+4.078540802001953
+
+559162, Green chemistry
+2056706, Wikipedia:WikiProject Chemistry/Participants
+268796, American Chemical Society
+6360888, Abiogenesis
+52931, List of chemists
+1776512, List of chemistry journals
+3587690, Green chemistry metrics
+315543, Quantum dot
+145005, Adsorption
+15389021, List of American Chemical Society national awards
+5.231323719024658
+
+12860, Moby-Dick
+8646, Herman Melville
+19957986, Herman Melville (book)
+596515, Omoo
+8294829, Herman Melville bibliography
+2309595, The Piazza Tales
+153616, Ishmael (Moby-Dick)
+3763579, The Encantadas
+14259883, Moby Dick (whale)
+2208895, Benito Cereno
+1.7610116004943848
+
