@@ -334,7 +334,7 @@ for filename in dir_lst:
     if os.path.isfile(directory+filename):
         f = os.path.join(directory, filename)
         file_size = os.path.getsize(f)
-        
+
         threshold = 1000000*40
 #        threshold = 1000*200
         denominator = threshold/2
@@ -345,20 +345,6 @@ for filename in dir_lst:
                 num_files = int(file_size/denominator)
             else:
                 num_files = int(file_size/denominator)+1
-
-            if os.path.exists('./index_files/helper_files/file_exists.txt'): 
-                file_exists_f = open('./index_files/helper_files/file_exists.txt', 'r+')
-                file_exists_content = file_exists_f.read()
-                file_exists_content = json.loads(file_exists_content)
-                file_exists_content.update({filename: num_files})
-                file_exists_f.seek(0)
-                file_exists_f.write(json.dumps(file_exists_content, indent=0, separators=(",",":")).replace("\n", ""))
-                file_exists_f.close()
-            else:
-                file_exists_f = open('./index_files/helper_files/file_exists.txt', 'a')
-                file_exists_content = {filename: num_files}
-                file_exists_f.write(json.dumps(file_exists_content, indent=0, separators=(",",":")).replace("\n", ""))
-                file_exists_f.close()
 
             fl = open(f,'r')
             content = fl.read()
@@ -420,6 +406,23 @@ for filename in dir_lst:
             new_f.write(json.dumps(new_dct, indent=0, separators=(",",":")).replace("\n", ""))
             new_f.close()
             os.remove(f)
+
+            if os.path.exists('./index_files/helper_files/file_exists.txt'): 
+                file_exists_f = open('./index_files/helper_files/file_exists.txt', 'r+')
+                file_exists_content = file_exists_f.read()
+                file_exists_content = json.loads(file_exists_content)
+                file_exists_content.update({filename: file_counter})
+                file_exists_f.seek(0)
+                file_exists_f.write(json.dumps(file_exists_content, indent=0, separators=(",",":")).replace("\n", ""))
+                file_exists_f.close()
+            else:
+                file_exists_f = open('./index_files/helper_files/file_exists.txt', 'a')
+                file_exists_content = {filename: file_counter}
+                file_exists_f.write(json.dumps(file_exists_content, indent=0, separators=(",",":")).replace("\n", ""))
+                file_exists_f.close()
+
+
+
         else:
             if os.path.exists('./index_files/helper_files/file_exists.txt'): 
                 file_exists_f = open('./index_files/helper_files/file_exists.txt', 'r+')
